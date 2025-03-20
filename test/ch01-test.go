@@ -1,9 +1,9 @@
 package main
 
 import (
-	"go-bible-learn/internal/ch01"
+	"go-bible-learn/internal/ch02"
 )
 
 func main() {
-	ch01.HelloWorld()
+	ch02.Boiling()
 }
